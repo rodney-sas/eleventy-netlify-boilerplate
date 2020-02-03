@@ -1,5 +1,5 @@
 ---
-title: About us (by Jane)
+title: 'About us (by Jane, rev2)'
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 navtitle: About
